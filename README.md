@@ -13,9 +13,9 @@ Para poder ejecutar el programa con exito es necesario:
 , un computador
 ,consola
 y editor de texto 
-## Instrucciones de Instalación
-Para copilar y ejecutar  el codigo es necesario abrir el repositorio copiar el codigo y pegarlo en su computador
+## Instrucciones para compilar 
+Para copilar y ejecutar  el codigo es necesario abrir el repositorio en visual studio code, copiar el codigo y pegarlo en su computador
 para despues ejecutarlo en el mismo
 ## uso
--Para el uso efectivo del progema es nesesario primero escribibir M si es que quiere ingresar manualmente la latitud y longitud o quiere que sea automatico con los datos geograficos de este lugar
-por medio de la letra (M) que significa manual o (A) que significa automatico
+-Para el uso efectivo del programa es nesesario primero escribibir M si es que quiere ingresar manualmente la latitud y longitud o si prefiere elegir que sea de forma automatica solo debe elegir la letra A y le mostrara para que usted pueda ingresar las coordenadas que usted desee verificar.
+
